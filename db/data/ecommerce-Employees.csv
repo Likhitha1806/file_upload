@@ -1,0 +1,13 @@
+ID,Name,Age,Department,Email,Phone,Location,JoiningDate
+1,Alice,30,HR,alice@example.com,123-456-7890,New York,2021-01-15
+2,Bob,25,IT,bob@example.com,234-567-8901,San Francisco,2020-03-22
+3,Charlie,28,Finance,charlie@example.com,345-678-9012,Chicago,2019-07-30
+4,Diana,32,Marketing,diana@example.com,456-789-0123,Los Angeles,2018-11-05
+5,Ethan,27,Sales,ethan@example.com,567-890-1234,Boston,2022-05-18
+6,Fiona,29,Operations,fiona@example.com,678-901-2345,Seattle,2021-09-25
+7,George,31,Legal,george@example.com,789-012-3456,Houston,2020-12-10
+8,Hannah,26,R&D,hannah@example.com,890-123-4567,Austin,2019-04-14
+9,Ian,33,HR,ian@example.com,901-234-5678,Denver,2018-08-21
+10,Jane,24,IT,jane@example.com,012-345-6789,Miami,2022-02-28
+11,Kyle,29,Finance,kyle@example.com,123-456-7890,Phoenix,2021-06-07
+12,Laura,27,Marketing,laura@example.com,234-567-8901,Philadelphia,2020-10-19

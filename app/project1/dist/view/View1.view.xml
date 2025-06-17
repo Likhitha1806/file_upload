@@ -1,0 +1,15 @@
+<mvc:View
+    controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <VBox id="_IDGenVBox" class="sapUiSmallMargin">
+                <Text id="_IDGenText" text="Welcome to SAPUI5!" />
+                <Input id="_IDGenInput" placeholder="Enter your name" />
+                <Button id="_IDGenButton1" text="Submit" press="onSubmit" />
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>
